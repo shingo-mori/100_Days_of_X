@@ -1,0 +1,25 @@
+# 100 Days Of Code - Log
+
+### Day 1: July 8, 2018
+
+**Today's Progress**: Solved question 1.1.
+
+**Thoughts:**
+
+**Link(s) to work:** [Ch1/1-IsUnique.py](https://github.com/shingo-uzuki/CtCI-6th-Edition-Python/blob/master/Ch1/1-IsUnique.py)
+
+### Day 2: July 9, 2018
+
+**Today's Progress**: Solved question 2.1.
+
+**Thoughts:**
+
+**Link(s) to work:** [Ch2/1-RemoveDups.py](https://github.com/shingo-uzuki/CtCI-6th-Edition-Python/blob/master/Ch2/1-RemoveDups.py)
+
+### Day 3: July 10, 2018
+
+**Today's Progress**: Solved question 3.1.
+
+**Thoughts:**
+
+**Link(s) to work:** [Ch3/1-ThreeInOne.py](https://github.com/shingo-uzuki/CtCI-6th-Edition-Python/blob/master/Ch3/1-ThreeInOne.py)
