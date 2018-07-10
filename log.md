@@ -19,8 +19,10 @@
 ### Day 3: July 9, 2018
 
 **Today's Progress**:
+
 Spent 0.5 hour.
-Looked up [Siraj's 3 month course](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) and found awesome video series of [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+
+Looked up [Siraj's 3 month course](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) and found awesome video series of the [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) on YouTube. Played around with some [animations](https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/) using matplotlib.
 
 
 **Thoughts:** 
