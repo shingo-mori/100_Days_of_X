@@ -15,3 +15,15 @@
 **Thoughts:** Several annotations are incorrect. These may harm the quality of the model. Been too busy to spare 1 hour...
 
 **Link(s) to work:** None
+
+### Day 3: July 9, 2018
+
+**Today's Progress**:
+Spent 0.5 hour.
+Looked up [Siraj's 3 month course](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) and found awesome video series of [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+
+
+**Thoughts:** 
+
+**Link(s) to work:** [day3](./day3/)
+
