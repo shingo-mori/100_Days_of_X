@@ -23,3 +23,13 @@
 **Thoughts:**
 
 **Link(s) to work:** [Ch3/1-ThreeInOne.py](https://github.com/shingo-uzuki/CtCI-6th-Edition-Python/blob/master/Ch3/1-ThreeInOne.py)
+
+### Day 4: July 11, 2018
+
+**Today's Progress**: 0.25 hour
+
+Read Chapter 4 which describes tree and grapsh data structures.
+
+**Thoughts:**
+
+**Link(s) to work:**

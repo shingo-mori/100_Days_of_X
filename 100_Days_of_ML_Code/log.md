@@ -29,3 +29,20 @@ Looked up [Siraj's 3 month course](https://github.com/llSourcell/Learn_Machine_L
 
 **Link(s) to work:** [day3](./day3/)
 
+### Day 4: July 10, 2018
+
+**Today's Progress**: 0 hour
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+### Day 5: July 11, 2018
+
+**Today's Progress**: 1.0 hour
+
+Set up environment for fast.ai part 1. Watched the video for lesson 1.
+
+**Thoughts:** 
+
+**Link(s) to work:**
