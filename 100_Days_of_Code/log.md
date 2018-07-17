@@ -33,3 +33,6 @@ Read Chapter 4 which describes tree and grapsh data structures.
 **Thoughts:**
 
 **Link(s) to work:**
+
+### Day 5-11: July 12-18, 2018
+Been too busy to work on the project...
