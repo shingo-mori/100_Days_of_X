@@ -55,7 +55,9 @@ Been too busy to work on the project...
 
 **Today's Progress:** 0.6 hour
 
-Set up my local environment for fast.ai part 2. pytest failed.
+Set up my local environment for fast.ai part 2. pytest passed.
+
+Could not access to jupyter notebook from inside LAN..
 
 **Thoughts:**
 

@@ -34,5 +34,17 @@ Read Chapter 4 which describes tree and grapsh data structures.
 
 **Link(s) to work:**
 
-### Day 5-11: July 12-18, 2018
+### Day 5-10: July 12-17, 2018
 Been too busy to work on the project...
+
+### Day 11: July 18, 2018
+
+**Today's Progress**: 1.0 hour
+
+**Thoughts:**
+
+Reviewed tree and binary tree.
+
+Solved question 4.1.
+
+**Link(s) to work:** [Ch4/1-RouteBetweenNodes.py](https://github.com/shingo-uzuki/CtCI-6th-Edition-Python/blob/master/Ch4/1-RouteBetweenNodes.py)
